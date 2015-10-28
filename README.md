@@ -15,7 +15,7 @@ The Visual Studio 2015 Tools for Docker Preview enables developers to build and 
 
 Scaffolding of Dockerfiles and scripts to build and run your Docker containers
 
-To assist developers getting started, and those developers already using docker with the appropriate Dockerfile and associated scripts to build and run your docker containers. This yoeman generator will prompt you with a few questions, asking your development language and target container host. Two files will be added to the directory
+To assist developers getting started, and those developers already using docker with the appropriate Dockerfile and associated scripts to build and run your docker containers. This yeoman generator will prompt you with a few questions, asking your development language and target container host. Two files will be added to the directory
 
 - `Dockerfile` - the Dockerfile associated with your target language
 - `dockerTask.sh` - a bash script that contains the common tasks associated with building and running your docker containers

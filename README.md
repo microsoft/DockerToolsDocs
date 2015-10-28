@@ -11,7 +11,9 @@ The Visual Studio 2015 Tools for Docker Preview enables developers to build and 
 
 
 ##yo docker##
-![yo docker](./media/yoDockerLogo.png)
+![yo docker](./media/yodockerLogo.png)
+
+![<Display Name>](./media/yodockerLogo.png)
 
 Scaffolding of Dockerfiles and scripts to build and run your Docker containers
 

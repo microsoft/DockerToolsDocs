@@ -13,8 +13,6 @@ The Visual Studio 2015 Tools for Docker Preview enables developers to build and 
 ##yo docker##
 ![yo docker](./media/yodockerLogo.png)
 
-![<Display Name>](./media/yodockerLogo.png)
-
 Scaffolding of Dockerfiles and scripts to build and run your Docker containers
 
 To assist developers getting started, and those developers already using docker with the appropriate Dockerfile and associated scripts to build and run your docker containers. This yoeman generator will prompt you with a few questions, asking your development language and target container host. Two files will be added to the directory
@@ -26,7 +24,7 @@ To assist developers getting started, and those developers already using docker 
 	- `run` - runs the Docker image on the default port, removing any current running containers for the same port
 	- `buildrun` - the default, which does what the name implies... 
 
-![https://youtu.be/_afFgiHiHO8](./media/Channel9ConnectedServices.jpg)
+![https://youtu.be/_afFgiHiHO8](yodockerVideoThumbnail.png)
 
 
 ###Installing yo docker on Mac###

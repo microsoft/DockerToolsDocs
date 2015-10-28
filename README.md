@@ -26,7 +26,7 @@ To assist developers getting started, and those developers already using docker 
 
 ![https://youtu.be/_afFgiHiHO8](./media/yodockerVideoThumbnail.png)
 
-[A 5 minute demo showing yo docker with NodeJS apps and VSCode](https://youtu.be/_afFgiHiHO8)
+[A 5 minute demo showing yo docker with NodeJS apps and VSCode](https://youtu.be/p1F-398z1_4)
 
 
 ###Installing yo docker on Mac###

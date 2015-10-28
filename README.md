@@ -55,3 +55,8 @@ For those looking for some simple Hello World samples for GOLang, NodeJS and soo
 - [Container Ready Hello World Samples](https://github.com/Microsoft/dockertools-sampleprojects) 
 
 These samples do NOT yet have the Docker assets added. The idea is you would use `yo docker` do enhance these.  
+###NodeJS Hello World Sample###
+To use the NodeJS sample
+- In the root directory execute: `npm install` to restore the node packages
+- to get nodemon support, execute: `sudo npm install -g nodemon`
+- to start the app with nodemon, execute: `nodemon`

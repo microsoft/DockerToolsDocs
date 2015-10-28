@@ -54,7 +54,7 @@ We are planning to make yo docker open sourced, accepting pull requests. *stay t
 For those looking for some simple Hello World samples for GOLang, NodeJS and soon ASP.NET, you can download these: 
 - [Container Ready Hello World Samples](https://github.com/Microsoft/dockertools-sampleprojects) 
 
-These samples do NOT yet have the Docker assets added. The idea is you would use `yo docker` do enhance these.  
+These samples do NOT yet have the Docker assets added. The idea is you would use `yo docker` to enhance these.  
 ###NodeJS Hello World Sample###
 To use the NodeJS sample
 - In the root directory execute: `npm install` to restore the node packages

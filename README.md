@@ -46,3 +46,12 @@ To assist developers getting started, and those developers already using docker 
 *Coming soon*
 
 While you can install the same yo docker tools above for the mac, the scripts generated are bash scripts. We are working on generating .cmd scripts as a Windows Developer would expect. 
+
+###Contributing to yo docker###
+We are planning to make yo docker open sourced, accepting pull requests. *stay tuned*
+
+##Getting Started Samples##
+For those looking for some simple Hello World samples for GOLang, NodeJS and soon ASP.NET, you can download these: 
+- [Container Ready Hello World Samples](https://github.com/Microsoft/dockertools-sampleprojects) 
+
+These samples do NOT yet have the Docker assets added. The idea is you would use `yo docker` do enhance these.  

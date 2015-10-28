@@ -24,7 +24,7 @@ To assist developers getting started, and those developers already using docker 
 	- `run` - runs the Docker image on the default port, removing any current running containers for the same port
 	- `buildrun` - the default, which does what the name implies... 
 
-![https://youtu.be/_afFgiHiHO8](yodockerVideoThumbnail.png)
+![https://youtu.be/_afFgiHiHO8](./media/yodockerVideoThumbnail.png)
 
 
 ###Installing yo docker on Mac###

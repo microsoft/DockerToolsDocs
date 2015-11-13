@@ -42,6 +42,9 @@ To assist developers getting started, and those developers already using docker 
 	
 	`yo docker`
 
+###Configuring Docker on your local machine
+1.	Follow the instructions here: [Docker Toolbox - Getting Started](http://docs.docker.com/mac/started/)
+
 ###Installing yo docker on Windows###
 *Coming soon*
 

@@ -7,7 +7,7 @@ A list of tools being developed at Microsoft for working with Docker Containers
 
 [DockerToolsForVisualStudio ](http://aka.ms/DockerToolsForVS)
 
-The Visual Studio 2015 Tools for Docker Preview enables developers to build and publish an ASP.NET 5 Web or console application to a Docker container running on a Linux or Windows virtual machine.
+The Visual Studio 2015 Tools for Docker Preview enables developers to build and debug their applications in a locally hosted Docker container and publish their application to an Azure Docker Host. 
 
 
 ##yo docker##
@@ -22,7 +22,7 @@ To assist developers getting started, and those developers already using docker 
 	parameters supported for  dockerTask.sh
 	- `build` - builds the Docker image
 	- `run` - runs the Docker image on the default port, removing any current running containers for the same port
-	- `buildrun` - the default, which does what the name implies... 
+	- `buildrun` - the default, which does what the name implies...
 
 ![https://youtu.be/_afFgiHiHO8](./media/yodockerVideoThumbnail.png)
 
@@ -31,28 +31,28 @@ To assist developers getting started, and those developers already using docker 
 
 ###Installing yo docker on Mac###
 1. Install [NodeJs](http://nodejs.org)
-2. Install Yo by running the following command from the Terminal: 
+2. Install Yo by running the following command from the Terminal:
 
 	`npm -g install yo`
 
-3. Install Docker generator: 
-	
+3. Install Docker generator:
+
 	`npm -g install generator-docker`
-4. From the directory of your project, run the Docker generator: 
-	
+4. From the directory of your project, run the Docker generator:
+
 	`yo docker`
 
 ###Installing yo docker on Windows###
 *Coming soon*
 
-While you can install the same yo docker tools above for the mac, the scripts generated are bash scripts. We are working on generating .cmd scripts as a Windows Developer would expect. 
+While you can install the same yo docker tools above for the mac, the scripts generated are bash scripts. We are working on generating .cmd scripts as a Windows Developer would expect.
 
 ###Contributing to yo docker###
 We are planning to make yo docker open sourced, accepting pull requests. *stay tuned*
 
 ##Getting Started Samples##
-For those looking for some simple Hello World samples for GOLang, NodeJS and soon ASP.NET, you can download these: 
-- [Container Ready Hello World Samples](https://github.com/Microsoft/dockertools-sampleprojects) 
+For those looking for some simple Hello World samples for GOLang, NodeJS and soon ASP.NET, you can download these:
+- [Container Ready Hello World Samples](https://github.com/Microsoft/dockertools-sampleprojects)
 
 These samples do NOT yet have the Docker assets added. The idea is you would use `yo docker` to enhance these.  
 ###NodeJS Hello World Sample###

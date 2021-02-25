@@ -1,4 +1,7 @@
-# Docker Tools Documentation
+# Important
+The list of tools described below are archived and no longer under development. For the latest versions of the container tooling for  Visual Studio and Visual Studio Code,  please see [Containers Tools in Visual Studio](https://docs.microsoft.com/en-us/visualstudio/containers/?view=vs-2019) and the [Visual Studio Code Docker extension](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker) 
+
+# Docker Tools Documentation (archived)
 A list of tools being developed at Microsoft for working with Docker Containers
 
 ##Docker Tools for Visual Studio##
